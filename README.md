@@ -4,8 +4,8 @@ Geometric algebra library
 
 Functions:
 
--[x]U+V\n
--[ ]U-v
+-[x]U+V  
+-[ ]U-v  
 -[x]UV
 -[ ]U/V
 -[ ]u^V
