@@ -1,2 +1,7 @@
 # Geom
-Geometric algebra librar
+Geometric algebra library
+
+
+Functions:
+
+[]U+V
